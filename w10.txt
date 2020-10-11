@@ -249,6 +249,7 @@
 0.0.0.0  officeredir.microsoft.com
 0.0.0.0  officestore.microsoft.com
 0.0.0.0  oft.msn.com
+0.0.0.0  ogs.google.com
 0.0.0.0  onclkds.com
 0.0.0.0  oneclient.sfx.ms
 0.0.0.0  onecollector.cloudapp.aria.akadns.net
