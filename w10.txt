@@ -331,7 +331,6 @@
 0.0.0.0  sitefinder.verisign.com
 0.0.0.0  skydrive.live.com
 0.0.0.0  skypeecs-prod-usw-0-b.cloudapp.net
-0.0.0.0  sls.update.microsoft.com.akadns.net
 0.0.0.0  smartscreen-os1p.smartscreen.microsoft.com
 0.0.0.0  smartscreen-prod.microsoft.com
 0.0.0.0  smartscreen-sn3p.smartscreen.microsoft.com
