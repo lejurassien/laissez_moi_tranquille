@@ -220,7 +220,7 @@
 0.0.0.0  live.rads.msn.com
 0.0.0.0  livetileedge.dsx.mp.microsoft.com
 0.0.0.0  location-inference-westus.cloudapp.net
-0.0.0.0  login.live.com
+#0.0.0.0  login.live.com
 0.0.0.0  m.adnxs.com
 0.0.0.0  match.adsrvr.org
 0.0.0.0  media.fastclick.net
