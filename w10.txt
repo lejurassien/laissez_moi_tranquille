@@ -445,3 +445,11 @@
 0.0.0.0  www.youtube-nocookie.com
 0.0.0.0  x.dlx.addthis.com
 0.0.0.0  youtube.2cnt.net
+0.0.0.0  notice.sp-stage.net
+0.0.0.0  cdn.privacy-mgmt.com
+0.0.0.0  gdpr-tcfv2.sp-prod.net
+0.0.0.0  consent.t-online.de
+0.0.0.0  usercentrics.eu
+0.0.0.0  mgr.consensu.org
+0.0.0.0  consent-cdn.sueddeutsche.de
+0.0.0.0  consent.cookiebot.com
